@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hospital</string>
+    <string-array name="role">
+        <item>Select your role</item>
+        <item>Patient</item>
+        <item>Doctor</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
